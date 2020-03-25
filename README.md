@@ -26,7 +26,7 @@ To contribute just make a pull request. Arxiv links are perfered but not require
 [2019 - Dynamic Path planning for autonomous driving on branch streets with crossing pedestrian avoidance guidance](https://www.researchgate.net/publication/335500015_Dynamic_Path_planning_for_autonomous_driving_on_branch_streets_with_crossing_pedestrian_avoidance_guidance)  
 [2019 - Advanced Planning for Autonomous Vehicles Using Reinforcement Learning and Deep Inverse Reinforcement Learning](https://www.researchgate.net/publication/330400231_Advanced_Planning_for_Autonomous_Vehicles_Using_Reinforcement_Learning_and_Deep_Inverse_Reinforcement_Learning)  
 [2018 - An Overview of Nature-Inspired, Conventional, and Hybrid Methods of Autonomous Vehicle Path Planning](https://www.researchgate.net/publication/326516894_An_Overview_of_Nature-Inspired_Conventional_and_Hybrid_Methods_of_Autonomous_Vehicle_Path_Planning)  
-[2016 - https://www.researchgate.net/publication/284766879_A_Review_of_Motion_Planning_Techniques_for_Automated_Vehicles](https://www.researchgate.net/publication/284766879_A_Review_of_Motion_Planning_Techniques_for_Automated_Vehicles)  
+[2016 - A Review of Motion Planning Techniques for Automated Vehicles](https://www.researchgate.net/publication/284766879_A_Review_of_Motion_Planning_Techniques_for_Automated_Vehicles)  
 [2010 - Path Planning for Autonomous Vehicles in Unknown Semi-structured Environments](https://www.researchgate.net/publication/220122077_Path_Planning_for_Autonomous_Vehicles_in_Unknown_Semi-structured_Environments)  
 
 
