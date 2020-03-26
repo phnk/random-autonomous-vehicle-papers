@@ -14,6 +14,7 @@ To contribute just make a pull request. Arxiv links are perfered but not require
 2018 - Autonomous vehicle perception: The technology of today and tomorrow [[Paper]](https://www.sciencedirect.com/science/article/pii/S0968090X18302134)  
 
 ## Localization
+2020 - MapLite: Autonomous Intersection Navigation Without a Detailed Prior Map [[Paper]](https://ieeexplore.ieee.org/document/8936918)
 2019 - Pair-Navi: Peer-to-Peer Indoor Navigation with Mobile Visual SLAM [[Paper]](https://ieeexplore.ieee.org/document/8737640)  
 2017 - Simultaneous Localization and Mapping: A Survey of Current Trends in Autonomous Driving [[Paper]](https://ieeexplore.ieee.org/document/8025618)  
 
@@ -34,6 +35,9 @@ To contribute just make a pull request. Arxiv links are perfered but not require
 ## Motion Control
 2019 - A Survey of Deep Learning Applications to Autonomous Vehicle Control [[Paper]](https://arxiv.org/abs/1912.10773)  
 2013 - Path planning, modeling and simulation of an autonomous articulated heavy construction machine performing a loading cycle [[Paper]](https://www.sciencedirect.com/science/article/pii/S0307904X12006476)  
+
+## End-to-end
+2020 - A deep learning algorithm for simulating autonomous driving considering prior knowledge and temporal information [[Paper]](https://www.researchgate.net/publication/335546276_A_deep_learning_algorithm_for_simulating_autonomous_driving_considering_prior_knowledge_and_temporal_information)  
 
 ## Datasets
 2016 - Joint Attention for Autonomous Driving (JAAD) Dataset [[Dataset]](http://data.nvision2.eecs.yorku.ca/JAAD_dataset/), [[Paper]](https://arxiv.org/abs/1609.04741)  
