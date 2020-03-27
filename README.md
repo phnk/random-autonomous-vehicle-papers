@@ -38,7 +38,11 @@ To contribute just make a pull request. Arxiv links are perfered but not require
 
 ## End-to-end
 2020 - A deep learning algorithm for simulating autonomous driving considering prior knowledge and temporal information [[Paper]](https://www.researchgate.net/publication/335546276_A_deep_learning_algorithm_for_simulating_autonomous_driving_considering_prior_knowledge_and_temporal_information)  
+1999 - A Robotic Excavator for Autonomous Truck Loading [[Paper]](https://www.researchgate.net/publication/225236717_A_Robotic_Excavator_for_Autonomous_Truck_Loading)  
 
+## Safety
+2020 - Self-driving vehicles against human drivers: Equal safety is far from enough. [[Paper]](https://psycnet.apa.org/record/2020-20350-001)  
+2019 - A Survey of Deep Learning Techniques for Autonomous Driving [[Paper]](https://arxiv.org/abs/1910.07738)  
 ## Datasets
 2016 - Joint Attention for Autonomous Driving (JAAD) Dataset [[Dataset]](http://data.nvision2.eecs.yorku.ca/JAAD_dataset/), [[Paper]](https://arxiv.org/abs/1609.04741)  
 2013 - The KITTI Vision Benchmark Suite [[Dataset]](http://www.cvlibs.net/datasets/kitti/), [[Paper]](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)
