@@ -43,6 +43,10 @@ To contribute just make a pull request. Arxiv links are perfered but not require
 ## Safety
 2020 - Self-driving vehicles against human drivers: Equal safety is far from enough. [[Paper]](https://psycnet.apa.org/record/2020-20350-001)  
 2019 - A Survey of Deep Learning Techniques for Autonomous Driving [[Paper]](https://arxiv.org/abs/1910.07738)  
+
+## Metrics
+2004 - Recall, Precision and Average Precision [[Paper]](https://web.archive.org/web/20110504130953/http://sas.uwaterloo.ca/stats_navigation/techreports/04WorkingPapers/2004-09.pdf)  
+
 ## Datasets
 2016 - Joint Attention for Autonomous Driving (JAAD) Dataset [[Dataset]](http://data.nvision2.eecs.yorku.ca/JAAD_dataset/), [[Paper]](https://arxiv.org/abs/1609.04741)  
 2013 - The KITTI Vision Benchmark Suite [[Dataset]](http://www.cvlibs.net/datasets/kitti/), [[Paper]](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)
