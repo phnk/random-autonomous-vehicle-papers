@@ -7,6 +7,10 @@ To contribute just make a pull request. Arxiv links are perfered but not require
 
 ## High Level Task Planning
 
+## Survey papers
+2020 - A Survey of Deep Learning Techniques for Autonomous Driving [[Paper]](https://arxiv.org/abs/1910.07738)  
+
+
 ## Perception
 2020 - Autonomous Visual Navigation for Mobile Robots: A Systematic Literature Review [[Paper]](https://dl.acm.org/doi/abs/10.1145/3368961)  
 2019 - Object Detection with Deep Neural Networks for Reinforcement Learning in the Task of Autonomous Vehicles Path Planning at the Intersection [[Paper]](https://link.springer.com/article/10.3103/S1060992X19040118)  
@@ -14,7 +18,7 @@ To contribute just make a pull request. Arxiv links are perfered but not require
 2018 - Autonomous vehicle perception: The technology of today and tomorrow [[Paper]](https://www.sciencedirect.com/science/article/pii/S0968090X18302134)  
 
 ## Localization
-2020 - MapLite: Autonomous Intersection Navigation Without a Detailed Prior Map [[Paper]](https://ieeexplore.ieee.org/document/8936918)
+2020 - MapLite: Autonomous Intersection Navigation Without a Detailed Prior Map [[Paper]](https://ieeexplore.ieee.org/document/8936918)  
 2019 - Pair-Navi: Peer-to-Peer Indoor Navigation with Mobile Visual SLAM [[Paper]](https://ieeexplore.ieee.org/document/8737640)  
 2017 - Simultaneous Localization and Mapping: A Survey of Current Trends in Autonomous Driving [[Paper]](https://ieeexplore.ieee.org/document/8025618)  
 
